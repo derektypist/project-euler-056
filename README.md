@@ -39,3 +39,8 @@ User Stories on function `powerfulDigitSum(n)` taken from [FreeCodeCamp - Coding
 **Information Architecture**
 
 The function `powerfulDigitSum(n)` returns a number, where `n` is a number between 2 and 100.
+
+## Features
+
+Allows the user to enter a number in order to get the maximum digital sum.  Performs checks on valid user input.  If the input is not valid, an error message is displayed instead.
+
