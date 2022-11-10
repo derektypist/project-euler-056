@@ -44,3 +44,25 @@ The function `powerfulDigitSum(n)` returns a number, where `n` is a number betwe
 
 Allows the user to enter a number in order to get the maximum digital sum.  Performs checks on valid user input.  If the input is not valid, an error message is displayed instead.
 
+## Technologies
+
+Uses HTML5, CSS3, JavaScript with BigInt, Bootstrap 5.2.2 and Google Fonts.
+
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-056) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [FreeCodeCamp](https://www.freecodecamp.org)
